@@ -7,6 +7,6 @@ setup(
     package_data={'uschema-py': ['uschema.ecore', 'USchema/*']},
     include_package_data=True,
     install_requires=[
-        "pyecore>=0.14.0"
+        "pyecore>=0.15.0"
     ]
 )
